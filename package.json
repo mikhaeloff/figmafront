@@ -1,0 +1,21 @@
+{
+  "name": "figmafront",
+  "version": "1.0.0",
+  "description": "\"# figmafront\"",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikhaeloff/figmafront.git"
+  },
+  "keywords": [
+    "d"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikhaeloff/figmafront/issues"
+  },
+  "homepage": "https://github.com/mikhaeloff/figmafront#readme"
+}
